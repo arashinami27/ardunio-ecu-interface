@@ -1,0 +1,3 @@
+This code is an interface designed to work with the arduino microcontroller and
+the Adafruit LCD Display. The code replicates the dynamic inputs of a car and 
+relays an output message according to the range.
